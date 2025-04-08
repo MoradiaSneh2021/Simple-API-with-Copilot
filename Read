@@ -1,0 +1,4 @@
+Building a Simple API with Copilot is a beginner-friendly project that demonstrates how to create a basic RESTful API using GitHub Copilot for AI-powered code suggestions. This project is perfect for developers who want to quickly scaffold and build an API with minimal setup and maximum learning.
+
+The API allows basic CRUD (Create, Read, Update, Delete) operations and can be customized for various data models. With Copilot, you can speed up development, get smart code completions, and focus on logic rather than boilerplate.
+
